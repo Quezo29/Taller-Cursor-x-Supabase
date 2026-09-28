@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <rect width="400" height="560" fill="#E2E8F0"/>
+  <rect x="18" y="18" width="364" height="524" rx="10" fill="#1C1917"/>
+  <rect x="40" y="50" width="320" height="460" rx="8" fill="#F8FAFC"/>
+  <text x="200" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1C1917">BOX BACK</text>
+  <text x="60" y="160" font-family="Arial, sans-serif" font-size="16" fill="#1C1917">Resident Evil 2</text>
+  <text x="60" y="200" font-family="Arial, sans-serif" font-size="14" fill="#334155">Play Station 1 · Physical edition</text>
+  <rect x="60" y="240" width="280" height="12" fill="#B91C1C"/>
+  <rect x="60" y="270" width="240" height="10" fill="#CBD5E1"/>
+  <rect x="60" y="295" width="260" height="10" fill="#CBD5E1"/>
+  <rect x="60" y="320" width="200" height="10" fill="#CBD5E1"/>
+  <text x="200" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">Catalog placeholder art</text>
+</svg>

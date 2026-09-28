@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="560" viewBox="0 0 400 560">
+  <rect width="400" height="560" fill="#F8FAFC"/>
+  <rect x="18" y="18" width="364" height="524" rx="10" fill="#86EFAC"/>
+  <rect x="34" y="34" width="332" height="492" rx="8" fill="#FFF7ED"/>
+  <rect x="34" y="34" width="332" height="70" fill="#052E16"/>
+  <text x="200" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#F8FAFC">Xbox</text>
+  <text x="200" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#052E16">Halo: Combat</text><text x="200" y="244" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#052E16">Evolved</text>
+  <rect x="90" y="360" width="220" height="120" rx="8" fill="#052E16" opacity="0.12"/>
+  <text x="200" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#052E16">BOX FRONT</text>
+  <text x="200" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#052E16">Quezo's Game Stache</text>
+</svg>

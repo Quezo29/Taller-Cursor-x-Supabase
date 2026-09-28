@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#F1F5F9"/>
+  <circle cx="200" cy="200" r="140" fill="#F97316" stroke="#1C1917" stroke-width="8"/>
+  <circle cx="200" cy="200" r="28" fill="#F8FAFC"/>
+  <circle cx="200" cy="200" r="10" fill="#1C1917"/>
+  <text x="200" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1C1917">DISC</text>
+  <text x="200" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#1C1917">Uncharted 2:</text>
+</svg>
